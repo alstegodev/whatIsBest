@@ -1,3 +1,9 @@
+.idea
+scratched
+api/src/db/migrations
+api/package-lock.json
+identifier.sqlite
+
 # Logs
 logs
 *.log
